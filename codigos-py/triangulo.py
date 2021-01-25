@@ -107,8 +107,3 @@ plt.grid(True)
 plt.axvline(0, color='black')
 plt.axhline(0, color='black')
 plt.show()       
-
-
-
-
-
